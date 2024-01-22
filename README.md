@@ -75,7 +75,7 @@ node example-pow.js
 
 ### Proof of Stake
 
-In a PoS-based networks, the creator of the next block is chosen via various combinations of random selection and wealth or age. To become a validator, you have to deposit a fee. If a validator abuses its position, it will lose its stake.
+In a PoS-based networks, the creator of the next block is chosen via various combinations of random selection and wealth or age. To become a validator, you have to deposit a fee. If a validator abuses its position, it will lose its stake. Change import for other Pos variants.
 
 ```shell
 node example-pos.js
